@@ -1,0 +1,35 @@
+_repo: Furcsa-emberek-Elbeszelesek_62239
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ambrus, Zoltán
+    alias: Ambrus, Zoltan
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '34456'
+    url: http://www.gutenberg.org/2009/agents/34456
+    wikipedia: http://hu.wikipedia.org/wiki/Ambrus_Zolt%C3%A1n_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2020-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62239'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Páriák -- A hazugság öl -- A határállomáson -- Keresztfám, Boldizsár
+  -- A koporsó -- Szegény gazdagok -- A Tenbrink-eset -- Mexikói történet -- A porczellán
+  -- Az utolsó húsevő -- Világos éjszaka -- Don Perez -- A lakáj -- Könyvmolyok --
+  A csodagyermek -- Kirándulás -- A bűvös ékszerek -- Achille -- A kötéltánczos --
+  A kor vezérei -- Bigyi -- Egy dollárkirály levelezése -- Sári és Váry -- Az erős
+  ember -- Lilino -- Levelek a menedékházból -- Vér és arany -- Az akarat betege --
+  Két öreg úr -- Pál herczeg nevelése -- Pál herczeg tünődik -- Messziről jött levelek
+  -- Martinovics -- Emberrablás -- Az utolsó mohikánok.
+title: 'Furcsa emberek: Elbeszélések'
+url: http://www.gutenberg.org/ebooks/62239
